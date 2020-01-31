@@ -1,3 +1,5 @@
+# Jenny is debugging a usethis issue around PRs, I will never merge this
+
 # Make sure you have devtools and the BRRR package installed
 install.packages("devtools")
 devtools::install_github("brooke-watson/BRRR")
